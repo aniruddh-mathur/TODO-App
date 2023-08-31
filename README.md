@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with Todo React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project contains the React frontend code for the Todo App. The corresponding backend code is in the repo 01-rest-api-starting-code.
 
 ## Available Scripts
 
